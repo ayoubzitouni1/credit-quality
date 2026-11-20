@@ -6,3 +6,4 @@ htmlcov/
 coverage.xml
 .coverage
 *.pdf
+demo_avant.py
